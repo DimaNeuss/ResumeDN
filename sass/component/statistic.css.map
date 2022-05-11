@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACF,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY;CACpC;;AACD,AAAA,qBAAqB,CAAA;EACjB,aAAa,EAAE,KAAK;CACvB",
+    "sources": [
+        "statistic.scss"
+    ],
+    "names": [],
+    "file": "statistic.css"
+}

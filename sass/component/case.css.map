@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAA;EACP,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY;CAEhC;;AACD,AAAA,gBAAgB,CAAA;EACZ,aAAa,EAAE,KAAK;CACvB",
+    "sources": [
+        "case.scss"
+    ],
+    "names": [],
+    "file": "case.css"
+}

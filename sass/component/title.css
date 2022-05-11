@@ -1,0 +1,23 @@
+.main {
+  margin-top: 275px;
+  margin-left: 385px;
+  width: 100%;
+  height: 100%;
+  background: url(../img/Wq9_CiFWnU4.PNG);
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: 700px;
+  margin-bottom: 35px;
+}
+
+h4 {
+  margin-bottom: 60px;
+}
+
+.title {
+  margin-left: 8px;
+}
+/*# sourceMappingURL=title.css.map */

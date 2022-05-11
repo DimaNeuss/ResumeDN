@@ -1,0 +1,147 @@
+@import url(d:\Projects\MyResume\sass\reset.css);
+h2 {
+  text-transform: uppercase;
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 95px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  width: 100%;
+  height: 60px;
+  background: #344051;
+}
+
+.logo {
+  color: #ffff;
+  font-size: 28px;
+  line-height: 60px;
+  padding-left: 390px;
+  float: left;
+  padding-right: 435px;
+}
+
+.menu__item {
+  color: #ffff;
+  float: left;
+  font-size: 16px;
+  line-height: 60px;
+  margin-left: 20px;
+  text-transform: uppercase;
+}
+
+.menu__item:last-child {
+  margin-right: 0px;
+}
+
+.main {
+  margin-top: 275px;
+  margin-left: 385px;
+  width: 100%;
+  height: 100%;
+  background: url(../img/Wq9_CiFWnU4.PNG);
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: 700px;
+  margin-bottom: 35px;
+}
+
+h4 {
+  margin-bottom: 60px;
+}
+
+.title {
+  margin-left: 8px;
+}
+
+.aboutme {
+  margin-top: 110px;
+}
+
+.aboutme__text {
+  display: block;
+  padding-bottom: 40px;
+  margin: 0 400px 0 400px;
+}
+
+.img__me {
+  display: flex;
+  text-align: center;
+  margin-bottom: 25px;
+  height: 200px;
+}
+
+.resume {
+  display: block;
+  text-align: center;
+}
+
+.aboutme__container {
+  margin-bottom: 100px;
+}
+
+.ican {
+  display: flex;
+}
+
+.ican__name {
+  color: orange;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.ican__text {
+  text-align: center;
+  margin-left: 40px;
+}
+
+.ican__container {
+  width: 100%;
+  height: 100%;
+  background-color: aqua;
+  margin-bottom: 100px;
+}
+
+.case__text {
+  display: flex;
+  justify-content: space-around;
+}
+
+.case__container {
+  margin-bottom: 100px;
+}
+
+.statistic {
+  display: flex;
+  justify-content: space-around;
+}
+
+.statistic__container {
+  margin-bottom: 100px;
+}
+
+.reviews__text {
+  display: block;
+  padding-bottom: 40px;
+  margin: 0 400px 0 400px;
+}
+
+.reviews__item {
+  display: block;
+  padding-bottom: 40px;
+  margin: 0 400px 0 400px;
+}
+
+.footer__text {
+  display: block;
+  padding-bottom: 40px;
+  margin: 0 400px 0 400px;
+}
+/*# sourceMappingURL=main.css.map */
